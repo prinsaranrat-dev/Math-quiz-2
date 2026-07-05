@@ -1,4 +1,4 @@
-# Math Quiz Game 2 (Python)
+# Math Quiz Game 2 🍕(Python)
 
 > Math game for primary school students :]
 
